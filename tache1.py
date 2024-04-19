@@ -5,4 +5,4 @@ for i in week:
     elif i == week[4]:
         print("Chouette c’est vendredi")
     else:
-        print("Repos ce week-end")
+        print("Repo ce week-end")
